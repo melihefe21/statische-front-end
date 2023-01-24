@@ -1,0 +1,9 @@
+div {
+    background-color: aqua;
+    width: 300px;
+    height: 200px;
+    padding: 40;
+    margin: 40px;
+    border: 20px;
+    border-style: dashed;
+}

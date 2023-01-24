@@ -1,5 +1,5 @@
 body {
-    background: salmon;
+    background: orchid;
 }
 
 h1 {
@@ -29,7 +29,8 @@ h6 {
 .container {
     margin: auto 30%; /*margins are used for positioning on a website, there are also paddings but dw about margins or paddings for now.*/
     border: solid black 5px;
-    border-radius: 5px;
+    border-radius: 5%;
+    padding-left: 5px;
 }
 
 .hobbies-img {
